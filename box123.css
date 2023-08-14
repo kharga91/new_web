@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.box1 {
+  height: 200px;
+  width: 200px;
+  margin: 0;
+  background-color: rgb(96, 7, 180);
+  border: 5px solid black;
+  padding: 10;
+
+}
+
+.box2 {
+
+  height: 200px;
+  width: 200px;
+  margin-left: 200px;
+  background-color: red;
+  border: 5px solid black;
+  padding: 10;
+}
+
+.box3 {
+  height: 200px;
+  width: 200px;
+  margin-left: 400px;
+  background-color: green;
+  border: 5px solid black;
+  padding: 10;
+
+}
